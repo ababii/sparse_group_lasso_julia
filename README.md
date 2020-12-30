@@ -1,1 +1,1 @@
-"# sparse_group_lasso_julia" 
+"# LASSO, group LASSO, and sparse group LASSO functions solved via proximal gradient descent" 
